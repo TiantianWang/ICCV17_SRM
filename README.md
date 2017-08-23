@@ -20,8 +20,8 @@ If you find this work useful in your research, please consider citing:
 * Please run `test.m` to generate saliency maps in the `./saliency_map` folder. 
 
 ## Download
-* Our initialized models can be found in [Baidu drive]() or [Google drive]().
-* Our trained models can be found in [Baidu drive]() or [Google drive]().
+* Our initialized models and trained models can be found in [Baidu drive](http://pan.baidu.com/s/1i4SDbdb) or [Google drive]().
+
 
 ## Contact
 tiantianwang.ice@gmail.com
