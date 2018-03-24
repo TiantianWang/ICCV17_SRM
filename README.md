@@ -21,6 +21,7 @@ If you find this work useful in your research, please consider citing:
 
 ## Download
 * Our initialized models and trained models can be found in [Baidu drive](http://pan.baidu.com/s/1i4SDbdb) or [Google drive](https://drive.google.com/file/d/0B_MpGgTntG47eDRfd0JzcnFBT00/view?usp=sharing).
+* The saliency maps of eight datasets including ECSSD, PASCAL-S, SOD, SED1, SED2, MSRA, DUT-OMRON, DUTS can be found in [Baidu drive](https://pan.baidu.com/s/1ugcMJ252awPpl5k0EkfpHg) or [Google drive]().
 
 
 ## Contact
