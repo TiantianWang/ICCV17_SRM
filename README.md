@@ -1,4 +1,4 @@
-## A Stagewise Refinement Model for Detecting Salient Objeccts in Images (SRM)
+## A Stagewise Refinement Model for Detecting Salient Objects in Images (SRM)
 This package has the source code for the paper "A Stagewise Refinement Model for Detecting Salient Objects in Images" (ICCV17).
 
 ## Citing this work
