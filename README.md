@@ -12,9 +12,12 @@ This package has the source code for the paper "A Stagewise Refinement Model for
 
 ## How to use
 Train
-* Please download our initialized model from [Baidu drive](http://pan.baidu.com/s/1i4SDbdb) or [Google drive](https://drive.google.com/file/d/0B_MpGgTntG47eDRfd0JzcnFBT00/view?usp=sharing).
+* Download our initialized model from [Baidu drive](https://pan.baidu.com/s/1UDIoe6Sp9tS6cNEt5PryGA) or [Google drive](https://drive.google.com/open?id=1VjBKqOwqpxeFoVjCxd9ueiuR63CB5u_P).
+* Use the code in `./train` to train the network.
 
-* Please run `test.m` to generate saliency maps in the `./saliency_map` folder. 
+Test
+* Download our trained model from [Baidu drive](https://pan.baidu.com/s/1Xp2T4J0k-5haiMlf4w3EEQ) or [Google drive](https://drive.google.com/open?id=1J4vDCihL-yism_Dn3J_dhgV9EH3a0Mia).
+* Run `./test/test.m` to generate saliency maps in the `./saliency_map` folder. 
 
 
 ## Citing this work
