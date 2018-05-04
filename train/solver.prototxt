@@ -1,4 +1,4 @@
-train_net: "/home/wang/Documents/deep_saliency/fcn.berkeleyvision.org-master/resnet/resnet50-256-369-5conv/v9-1-ppm-duts-nodrop/train.prototxt"
+train_net: "/home/wang/train.prototxt"
 #test_net: "val.prototxt"
 #test_iter: 736
 # make test net, but don't invoke it from the solver itself
@@ -15,5 +15,5 @@ iter_size: 1
 max_iter: 300000
 weight_decay: 0.0005
 snapshot: 20000
-snapshot_prefix: "/home/wang/Documents/deep_saliency/fcn.berkeleyvision.org-master/resnet/resnet50-256-369-5conv/v9-1-ppm-duts-nodrop/snapshot/snapshot"
+snapshot_prefix: "/home/wang/snapshot/snapshot"
 #test_initialization: false
