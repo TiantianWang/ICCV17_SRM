@@ -1,6 +1,9 @@
 ## A Stagewise Refinement Model for Detecting Salient Objects in Images (SRM)
 This package has the source code for the paper "A Stagewise Refinement Model for Detecting Salient Objects in Images" (ICCV17).
 
+## Paper link
+* The paper can be found in [Baidu drive](https://pan.baidu.com/s/1xsWs-v80s4CQJOl_ouq3NA) or [Google drive](https://drive.google.com/open?id=0B_MpGgTntG47b18yUlJxOGtuNDA).
+
 ## Note
 * We use [Caffe](https://github.com/hszhao/PSPNet) to train our Stagewise Refinement Model.
 * Our Resnet-50 model is based on the previous work [simon2016cnnmodels](https://arxiv.org/pdf/1612.01452.pdf).
