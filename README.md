@@ -6,7 +6,7 @@ This package has the source code for the paper "A Stagewise Refinement Model for
 
 ## Note
 * We use [Caffe](https://github.com/hszhao/PSPNet) to train our Stagewise Refinement Model.
-* Our Resnet-50 model is based on the previous work [simon2016cnnmodels](https://arxiv.org/pdf/1612.01452.pdf).
+* Our Resnet-50 model is based on the previous work [simon2016cnnmodels](https://arxiv.org/pdf/1612.01452.pdf)[Imagenet pretrained models with batch normalization].
 * Saliency maps are generated without any pre- or post-processing.
 
 ## How to use
