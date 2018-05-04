@@ -1,14 +1,14 @@
 clc;clear;close all;
 
-addpath(genpath('/home/wtt/Desktop/PSPNet-master-new/matlab'));
-inpath='/media/wtt/Experiment/LF/test_data/test/img/';
-outpath='./lfimg/';
+addpath(genpath('/home/wtt/Desktop/PSPNet/matlab'));
+inpath='../data/'; % input image
+outpath='./saliency_map/'; % output saliency map
 mkdir(outpath);
 in_dir=dir(inpath);
 imgnum=length(in_dir);
 % 
 net_model='./deploy.prototxt';
-net_weights='./snapshot/snapshot_iter_100000.caffemodel';
+net_weights='./snapshot/snapshot_iter_100000.caffemodel'; % the folder of trained model
 phase='test';
 caffe.set_mode_gpu();
 caffe.set_device(0);
