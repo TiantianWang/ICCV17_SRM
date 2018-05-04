@@ -6,10 +6,6 @@ This package has the source code for the paper "A Stagewise Refinement Model for
 * Our Resnet-50 model is based on the previous work [simon2016cnnmodels](https://arxiv.org/pdf/1612.01452.pdf).
 * Saliency maps are generated without any pre- or post-processing.
 
-## Download
-* Our initialized models and trained models can be found in [Baidu drive](http://pan.baidu.com/s/1i4SDbdb) or [Google drive](https://drive.google.com/file/d/0B_MpGgTntG47eDRfd0JzcnFBT00/view?usp=sharing).
-* The saliency maps on 10 datasets including ECSSD, PASCAL-S, SOD, SED1, SED2, MSRA, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in [Baidu drive](https://pan.baidu.com/s/1ugcMJ252awPpl5k0EkfpHg) or [Google drive]().
-
 ## How to use
 Train
 * Download our initialized model from [Baidu drive](https://pan.baidu.com/s/1UDIoe6Sp9tS6cNEt5PryGA) or [Google drive](https://drive.google.com/open?id=1VjBKqOwqpxeFoVjCxd9ueiuR63CB5u_P).
@@ -19,6 +15,8 @@ Test
 * Download our trained model from [Baidu drive](https://pan.baidu.com/s/1Xp2T4J0k-5haiMlf4w3EEQ) or [Google drive](https://drive.google.com/open?id=1J4vDCihL-yism_Dn3J_dhgV9EH3a0Mia).
 * Run `./test/test.m` to generate saliency maps in the `./saliency_map` folder. 
 
+## Download
+* The saliency maps on 10 datasets including ECSSD, PASCAL-S, SOD, SED1, SED2, MSRA, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in [Baidu drive](https://pan.baidu.com/s/1ugcMJ252awPpl5k0EkfpHg) or [Google drive]().
 
 ## Citing this work
 If you find this work useful in your research, please consider citing:
