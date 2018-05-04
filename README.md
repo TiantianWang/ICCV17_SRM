@@ -22,10 +22,10 @@ Test
 If you find this work useful in your research, please consider citing:
 
      @inproceedings{wangiccv17,
-        Author={Wang, Tiantian and Borji, Ali and Zhang, Lihe and Zhang, Pingping and Lu, Huchuan},
-        Title={A Stagewise Refinement Model for Detecting Salient Objects in Images},
-        Booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-        Year={2017}
+        author={Wang, Tiantian and Borji, Ali and Zhang, Lihe and Zhang, Pingping and Lu, Huchuan},
+        title={A Stagewise Refinement Model for Detecting Salient Objects in Images},
+        booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+        year = {2017}
      }
      
 
