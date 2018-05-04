@@ -21,7 +21,7 @@ Test
 ## Download
 * The saliency maps on 10 datasets including ECSSD, PASCAL-S, SOD, SED1, SED2, MSRA, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in [Baidu drive](https://pan.baidu.com/s/1ugcMJ252awPpl5k0EkfpHg) or [Google drive]().
 
-## Citing this work
+## Cite this work
 If you find this work useful in your research, please consider citing:
 
      @inproceedings{wangiccv17,
