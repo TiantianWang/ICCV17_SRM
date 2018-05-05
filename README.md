@@ -19,7 +19,7 @@ Test
 * Run `./test/test.m` to generate saliency maps in the `./saliency_map` folder. 
 
 ## Download
-* The saliency maps on 10 datasets including ECSSD, PASCAL-S, SOD, SED1, SED2, MSRA, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in [Baidu drive](https://pan.baidu.com/s/1ugcMJ252awPpl5k0EkfpHg) or [Google drive]().
+* The saliency maps on 10 datasets including ECSSD, PASCAL-S, SOD, SED1, SED2, MSRA, DUT-OMRON, THUR15K, HKU-IS and DUTS can be found in [Baidu drive](https://pan.baidu.com/s/1ugcMJ252awPpl5k0EkfpHg) or [Google drive](https://drive.google.com/open?id=1cw_5mU20vl8llPnPfQUT5C59NvesRAKK).
 
 ## Cite this work
 If you find this work useful in your research, please consider citing:
