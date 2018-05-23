@@ -1,0 +1,2 @@
+/media/wtt/Data/data/gt/ILSVRC2012_test_00000004.png 0
+/media/wtt/Data/data/gt/ILSVRC2012_test_00000018.png 0
